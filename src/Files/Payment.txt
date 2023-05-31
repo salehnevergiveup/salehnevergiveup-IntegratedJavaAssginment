@@ -1,0 +1,98 @@
+{
+amount: 3400
+payment id: py1242
+payment-year: 2023
+name: saleh
+issue-year: 2023
+issue-month: 5
+payment-month: 5
+type: deposit
+application id: app248042
+roomid: rm25823
+username: saleh123
+status: paid
+}
+{
+amount: 2400
+payment id: py1243
+payment-year: 2023
+name: saleh
+issue-year: 2023
+issue-month: 5
+payment-month: 5
+type: rent
+application id: app248042
+roomid: rm25823
+username: saleh456
+status: paid
+}
+{
+amount: 2400
+payment id: py1244
+payment-year: 2023
+name: saleh
+issue-year: 2023
+issue-month: 5
+payment-month: 5
+type: rent
+application id: app248042
+roomid: rm25823
+username: saleh456
+status: outstanding
+}
+{
+amount: 2400
+payment id: py1245
+payment-year: 2023
+name: saleh
+issue-year: 2023
+issue-month: 5
+payment-month: 5
+type: rent
+application id: app248042
+roomid: rm25823
+username: saleh456
+status: outstanding
+}
+{
+amount: 2400
+payment id: py1246
+payment-year: 2023
+name: saleh
+issue-year: 2023
+issue-month: 5
+payment-month: 5
+type: rent
+application id: app248042
+roomid: rm25823
+username: saleh456
+status: outstanding
+}
+{
+amount: 2400
+payment id: py1247
+payment-year: 2023
+name: saleh
+issue-year: 2023
+issue-month: 5
+payment-month: 5
+type: rent
+application id: app248042
+roomid: rm25823
+username: saleh456
+status: outstanding
+}
+{
+amount: 2400
+payment id: py1248
+payment-year: 2023
+name: saleh
+issue-year: 2023
+issue-month: 5
+payment-month: 5
+type: rent
+application id: app248042
+roomid: rm25823
+username: saleh456
+status: outstanding
+}

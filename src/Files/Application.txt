@@ -1,0 +1,42 @@
+{
+duration: 6
+month: 4
+year: 2023
+monthly rent: 1110.0
+name: saleh
+deposit: 2220.0
+type: master
+application id: app8412835
+email: saleh@gmail.com
+roomid: rm68417
+username: saleh123
+status: accepted
+}
+{
+duration: 10
+month: 4
+year: 2023
+monthly rent: 3000.0
+name: miaomiao
+deposit: 2220.0
+type: unit
+application id: app45678
+email: saleh@gmail.com
+roomid: rm07504
+username: miaomiaomirza
+status: accepted
+}
+{
+duration: 22
+month: 5
+year: 2023
+monthly rent: 4000.0
+name: saleh
+deposit: 8000.0
+type: master
+application id: app678932
+email: saleh@gmail.com
+roomid: rm55555
+username: saleh123
+status: rejected
+}

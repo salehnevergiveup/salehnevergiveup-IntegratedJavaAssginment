@@ -1,0 +1,20 @@
+{
+password: 737801951
+address: one south
+role: student
+name: saleh
+email: saleh@gmail.com
+tpnumber: tp065015
+gender: male
+username: saleh123
+}
+{
+password: 99999
+address: one south
+role: admin
+name: elton
+email: saleh@gmail.com
+tpnumber: asasdas
+gender: male
+username: miaomiaomirza
+}

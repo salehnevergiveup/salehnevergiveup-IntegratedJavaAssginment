@@ -1,0 +1,204 @@
+{
+gender: male
+bathroom size: 0.0
+monthly rent: 1750.0
+description: room for rent
+type: unit
+roomid: rm07504
+size: 700.0
+bathroom users: 2
+type of bathroom: shared
+rooms number: 4
+bathrooms number: 3
+deposit: 3500.0
+location: 3-2
+residents number: 0
+status: notavailable
+}
+{
+gender: male
+bathroom size: 55.0
+monthly rent: 5777.0
+description: description
+type: doubleroom
+roomid: rm25821
+size: 250.5
+bathroom users: 2
+type of bathroom: shared
+rooms number: 4
+bathrooms number: 3
+deposit: 293.75
+location: 9-7
+residents number: 2
+status: available
+}
+{
+gender: female
+bathroom size: 144.0
+monthly rent: 8000.0
+description: description
+type: single
+roomid: rm3660
+size: 100.0
+bathroom users: 2
+type of bathroom: shared
+rooms number: 4
+bathrooms number: 3
+deposit: 16000.0
+location: 7-6
+residents number: 2
+status: available
+}
+{
+gender: female
+bathroom size: 100.0
+monthly rent: 5000.0
+description: description
+type: doubleroom
+roomid: rm23605
+size: 150.0
+bathroom users: 2
+type of bathroom: shared
+rooms number: 4
+bathrooms number: 3
+deposit: 0.0
+location: 9-7
+residents number: 2
+status: available
+}
+{
+gender: male
+bathroom size: 144.0
+monthly rent: 567.0
+description: description
+type: single
+roomid: rm1521
+size: 100.0
+bathroom users: 2
+type of bathroom: shared
+rooms number: 4
+bathrooms number: 3
+deposit: 1134.0
+location: 7-6
+residents number: 2
+status: available
+}
+{
+gender: none
+bathroom size: 144.0
+monthly rent: 2375.0
+description: now available
+type: unit
+roomid: rm5135
+size: 950.0
+bathroom users: 2
+type of bathroom: shared
+rooms number: 5
+bathrooms number: 3
+deposit: 4750.0
+location: 66-6
+residents number: 2
+status: available
+}
+{
+gender: female
+bathroom size: 144.0
+monthly rent: 1000.0
+description: description
+type: master
+roomid: rm68417
+size: 444.0
+bathroom users: 2
+type of bathroom: shared
+rooms number: 5
+bathrooms number: 3
+deposit: 2940.0
+location: 9-8
+residents number: 2
+status: available
+}
+{
+gender: male
+bathroom size: 0.0
+monthly rent: 1750.0
+description: huilun shigou
+type: unit
+roomid: rm7161
+size: 700.0
+bathroom users: 2
+type of bathroom: shared
+rooms number: 4
+bathrooms number: 3
+deposit: 3500.0
+location: 3-2
+residents number: 1
+status: available
+}
+{
+size: 160.0
+gender: male
+bathroom users: 2
+type of bathroom: shared
+monthly rent: 650.0
+description: currently available
+deposit: 1300.0
+location: 20-4
+bathroom size: 100.0
+type: single
+roomid: rm65885
+status: available
+}
+{
+size: 160.0
+gender: male
+bathroom users: 2
+type of bathroom: shared
+monthly rent: 650.0
+description: currently available
+deposit: 1300.0
+location: 20-7
+bathroom size: 100.0
+type: single
+roomid: rm04818
+status: available
+}
+{
+size: 160.0
+gender: male
+bathroom users: 2
+type of bathroom: shared
+monthly rent: 650.0
+description: currently available
+deposit: 1300.0
+location: 20-88
+bathroom size: 100.0
+type: single
+roomid: rm70857
+status: available
+}
+{
+size: 170.0
+gender: 50
+monthly rent: 212.5
+description: available
+deposit: 425.0
+location: 20-99
+bathroom size: 0.0
+residents number: 2
+type: doubleroom
+roomid: rm2036
+status: not available
+}
+{
+size: 175.0
+gender: 100
+monthly rent: 218.75
+description: available in june
+deposit: 437.5
+location: 20-1010
+bathroom size: 0.0
+residents number: 2
+type: doubleroom
+roomid: rm23772
+status: not available
+}
